@@ -7,9 +7,9 @@
 ![Confusion Matrix](Screenshot 2025-08-04 071034.png)
 
 ### 🧠 Model Performance
-![Accuracy](Screenshot 2025-08-04 071105.png)
+![Accuracy](https://github.com/your-username/your-repo/blob/main/Screenshot%202025-08-04%20071105.png)
 
-![IBM Cloud](Predictive-Maintenance/Screenshot 2025-08-04 071221.png)
+![IBM Cloud](https://github.com/your-username/your-repo/blob/main/Predictive-Maintenance/Screenshot%202025-08-04%20071221.png)
 
 # 🔧 Predictive Maintenance Using Stacking Model
 
