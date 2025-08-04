@@ -4,12 +4,11 @@
 ## 📷 Screenshots
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](Screenshot 2025-08-04 071034.png)
+![Confusion Matrix](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Screenshot%202025-08-04%20071034.png)
 
 ### 🧠 Model Performance
-![Accuracy](https://github.com/your-username/your-repo/blob/main/Screenshot%202025-08-04%20071105.png)
-
-![IBM Cloud](https://github.com/your-username/your-repo/blob/main/Predictive-Maintenance/Screenshot%202025-08-04%20071221.png)
+![Accuracy](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Screenshot%202025-08-04%20071105.png)
+![IBM Cloud](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Predictive-Maintenance/Screenshot%202025-08-04%20071221.png)
 
 # 🔧 Predictive Maintenance Using Stacking Model
 
