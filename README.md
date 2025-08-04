@@ -1,5 +1,20 @@
 # Predictive-Maintenance
 
+
+## 📷 Screenshots
+
+### 📌 Dataset Overview
+![Dataset](assets/dataset_overview.png)
+
+### 📊 Confusion Matrix
+![Confusion Matrix](assets/confusion_matrix.png)
+
+### 🧠 Model Performance
+![Accuracy](assets/model_accuracy.png)
+
+### ☁️ IBM Cloud Deployment Interface
+![IBM Cloud](assets/ibm_deploy.png)
+
 # 🔧 Predictive Maintenance Using Stacking Model
 
 A machine learning project that predicts equipment failures before they occur using sensor and operational data. This project uses ensemble learning (stacking) to improve classification accuracy across multiple failure types.
