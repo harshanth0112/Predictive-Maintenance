@@ -8,7 +8,7 @@
 
 ### 🧠 Model Performance
 ![Accuracy](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Screenshot%202025-08-04%20071105.png)
-![IBM Cloud](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Predictive-Maintenance/Screenshot%202025-08-04%20071221.png)
+![IBM Cloud](https://raw.githubusercontent.com/harshanth0112/Predictive-Maintenance/main/Screenshot%202025-08-04%20071221.png)
 
 # 🔧 Predictive Maintenance Using Stacking Model
 
