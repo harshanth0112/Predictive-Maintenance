@@ -9,7 +9,7 @@
 ### 🧠 Model Performance
 ![Accuracy](Screenshot 2025-08-04 071105.png)
 
-![IBM Cloud](Screenshot 2025-08-04 071221.png)
+![IBM Cloud](Predictive-Maintenance/Screenshot 2025-08-04 071221.png)
 
 # 🔧 Predictive Maintenance Using Stacking Model
 
