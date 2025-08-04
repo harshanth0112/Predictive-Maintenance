@@ -3,17 +3,13 @@
 
 ## 📷 Screenshots
 
-### 📌 Dataset Overview
-![Dataset](assets/dataset_overview.png)
-
 ### 📊 Confusion Matrix
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](Screenshot 2025-08-04 071034.png)
 
 ### 🧠 Model Performance
-![Accuracy](assets/model_accuracy.png)
+![Accuracy](Screenshot 2025-08-04 071105.png)
 
-### ☁️ IBM Cloud Deployment Interface
-![IBM Cloud](assets/ibm_deploy.png)
+![IBM Cloud](Screenshot 2025-08-04 071221.png)
 
 # 🔧 Predictive Maintenance Using Stacking Model
 
